@@ -1,0 +1,43 @@
+Hrithik Sinha Aspiring Developer 
+
+A/11, Tirupati Vihar Nr. Pratap Circle, Banswara - 327 001 Rajasthan 
++91 9460418376 hrithiksinha56@gmail.com https://www.linkedin.com/in/hrithik-sinha-7abb391b2
+ㅡ Skills 
+
+Python 3 Flask Framework Python Data Structure Object Oriented Programming (OOP) Web Application Api Integration Django 
+AI & ML
+MySQL
+
+ㅡ Projects 
+Lane Line Detection - 2nd December - 18th December 2021, Project Assigned by College.
+ Lane Line detection is a critical component for self driving cars and also for computer vision in general. This concept is used to describe the path for self-driving cars and to avoid the risk of 
+getting in another lane.
+Face Detection - 12th September - 5th October 2021, Project Assigned under Internship Period.
+The goal of this project is to detect and locate human faces in a color image. A set of seven 
+training images were provided for this purpose. The objective was to design and implement a 
+face detector in MATLAB that will detect human faces in an image similar to the training 
+images. 
+With Integration of APIs using Python - February 2021 - March 2021, Project assigned by college.
+We created invitation which will be sent in mail and it will keep that event as a reminder in 
+Client/user’s Google calendar
+ㅡ Education 
+
+D.Y Patil International University / CSE 2019 - to currently pursuing,  Akurdi (Main Campus) Pune , Maharashtra 
+Bhartiya Vidhiya Bhavan / Sr. Secondary 
+(Science - Mathematics) CBSE Board, Percentage - 61%
+2017 - 2018,  Banswara 
+New Look Sr. Secondary School / Secondary 
+ CBSE Board, CGPA – 7
+2015 - 2016,  Banswara 
+1 | P a g e
+ㅡ Extra Curricular 
+
+Active member of College Event Organizing Committee. Core Team member of Annual Sports Festival (INDIGO). 
+Appointed as Sports captain of School. 
+ㅡ Languages Known 
+
+Hindi English 
+Gujarati 
+I hereby declare that all the information contained in this resume is in accordance with facts or truths to my knowledge. 
+Place: 	Signature Date: 
+2 | P a g e

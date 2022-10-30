@@ -1,0 +1,75 @@
+
+Paras Thakkar 
+Aspiring Software Engineer 
+I love to learn new technologies and passionate about whatever I am working on. Seeking the position in growth oriented company where i can use my skills to help in the growth of company while having the scope to develop as well as diversify my professional skill-set. I am focused, dedicated and see my task through. I always make sure to complete my task within deadline. 
+parasthakkar1206@gmail.com 	+91 8983672458 
+Pune, India 	linkedin.com/in/paras-thakkar-462096190 
+github.com/paras77-thakkar 
+EDUCATION 
+TECHNICAL SKILLS 
+Bachelor in Technology in Computer Science and
+HTML 
+CSS 
+C 
+C++ 
+Flutter 
+Dart 
+Engineering 
+Python 
+Data Analysis 
+Data Visualization 
+D.Y Patil International University Pune 
+Git 
+08/2020 - 05/2023, 
+7.6 CGPA 
+GitHub 
+Ms Office 
+Diploma in Computer Engineering K.J Somaiya Polytechnic Mumbai 
+08/2016 - 05/2019, 
+86.20% 
+COURCES 
+SSC Sharda Vidyalaya Padgha, Thane 
+100 Days of Code: The Complete Python Pro Bootcamp (Udemy) (05/2022) 
+06/2015 - 03/2016, 	2021 Flutter Development Bootcamp (Udemy) (12/2021) 
+Data Analysis with Python(Coursera) (06/2021) 
+PROJECTS 
+Data Visualization with Python(Coursera) (06/2021) 
+Neuroscience Dataset Analysis (06/2021 - 07/2021) 
+Analyze patient’s Information using different parameters, extracted some specific records(outliers), prediction of some parameters for future, and visualize that information graphically etc 
+Personal Expenses Tracker App (05/2021 - 05/2021) 
+Microsoft Azure one day workshop (06/2021) Introduction to Data Science and AI 
+Programming for Everybody (Getting Started with Python) (Courseera) (07/2020) 
+Helps user to add personal expenses and track his weekly expenses. 
+Web Development Course(Coursera) (01/2020) 
+Student Portal (02/2021 - 04/2021) 
+Website for students and teacher/admin to give exam, apply for leave, add
+LANGUAGES 
+and display student’s personal information etc.) 
+Question Paper Generator System (02/2019 - 04/2019) 
+English 
+Marathi 
+User just have to add questions and system generates question paper in
+Professional Working Proficiency 
+Professional Working Proficiency 
+particular pattern by picking questions randomly. 
+Hindi 
+Gujarati 
+Professional Working Proficiency 
+Native or Bilingual Proficiency 
+WORK EXPERIENCE 
+Flutter App Developer Intern 
+INTERESTS 
+Zoob Labs 
+11/2021 - 12/2021, 
+Delaware, US 
+Cricket 
+Football 
+Travelling 
+Quotes Writing 
+Zoob Labs, Inc. is a Delaware, US based startup - focused on creating platforms for
+making the world kinder and filled with happiness. 
+Achievements/Tasks Focusing or on frontend App Development. Debugging and solving errors. 
+Code Documentation. 
+Neuroscience Dataset Analysis D.Y. Patil International University 06/2021 - 07/2021, 	Pune ,India Achievements/Tasks 	Analyze patient’s Information using different parameters. 
+Performing EDA(Exploratory Data Analysis). 
+Code Documentation. 

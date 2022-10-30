@@ -1,0 +1,31 @@
+Neel Patil
+Akurdi, Pune 9370331182 raupatil62@gmail.com
+DataScience  Intern An engineer seeking challenges in data analytics to help companies with data driven decisions.
+EXPERIENCE
+SKILLS
+●
+Python, C, C++
+Google slides, Google Docs,
+●
+Data Visualization
+MySQL Shell , VS code,
+●
+SQL / Mysql
+Google Colab
+●
+Operating Systems: Windows, Linux(Garuda)
+INTERNSHIP
+DYPIU (In house) April 2021 - june 2021 Survey of Different Rumor Detection Models in context to their pros and cons
+CERTIFICATIONS● C & CPP Professional Certificate (Coursera)
+● Design Thinking and
+PROJECTS Rumor Detection (Python) —An Machine Learning model which predicteds that is a certain tweet a
+rumor or non rumor
+Global Startup course from Coursera
+● Design Thinking from Innovation course from Coursera
+Wind Estimation For Sniping —
+Estimating Wind speed to calculate the trajectory of a bullet traveling from shooting side to impact side
+Disease Prediction System (Python)
+This project predicts disease a person is suffering from using symptoms.
+ONGOING PROJECT
+Kepler Object of Interest (Data Analysis)  —
+Analyzing different celestial object’s (mainly stars) characteristics for understanding what properties of stars suggest that the KOI host planets (dataset is from kaggel)

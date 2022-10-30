@@ -1,0 +1,33 @@
+
+viplav patwardhan Full-stack Developer • Data Science • Front-end Developer
+D. Y. Patil International University • 2023 Pass out
+LinkedIn • Github • Cuvette Profile • Email • 9146941442
+Work Experience
+Web development  @ The spark Foundation, Pune
+May 2021 - June 2021 (1 month) | Part-time
+01. My task is to developed basic banking system which contains the transactions history.
+02. I have developed the UI and done the  backend part using html, css, and for backend part I have used java, MySQL for dataset.
+03. In this we can see payment history and remaining payments of users. And we can enter a amount what we have pay .
+Tagline Experience in developing web applications using HTML, CSS, JavaScript, AngularJS, NodeJs.
+Technical Skills HTML | CSS | Python | Angular | NodeJs | MySQL
+Additional Skills Quick Learner | Time management | Creativity
+Skills Developed: HTML, CSS, Java, MySQL
+Team Members: Jigar sable (Full stack developer )
+Education
+Chate school
+Projects House Rental Management System 01. By this management system user can easily find house. 02. Firstly we developed the login page then we work on home page.
+Class X | 2015 - 2017
+D. Y. Patil International University, Gurudwara Colony, Nigdi, Pune, Maharashtra B.Tech, Computer Science & Information Technology (CSIT) | 2019 - 2023
+03. In this project, we use four tables. Houses, tenants, payment, and house type. This system manages the payments and recommends houses.
+Skills Developed: MySQL, HTML, CSS
+RestApi
+01.  ability to add/delete/update/modify todo
+02. Start from index file then created config, model, routes and schemas file.
+03.  basic todo rest Api along with auth and ability to add/delete/update/modify todo and use proper folder structure 
+Skills Developed: MongoDB, Python, API
+Brain Tumor Classification
+01. To automatically segment tumor regions in  brain.
+02. I am using Mask R-CNN to build an actual detector which will point out the location of the tumor on the scan. 
+03. The aim of this project is to predict the position of tumor in brain MRI using deep learning algorithms.
+Certifications & Courses web development March 2020 | Certificate Link Computational Thinking with beginning C programming specialization August 2020 | Certificate Link Data Analysis and Representation, Selection and Iteration July 2020 | Certificate Link Object-Oriented Data Structures in C++ August 2020 | Certificate Link Simulation, Algorithm Analysis, and Pointers September 2020 | Certificate Link Android App Development July 2021 | Certificate Link
+Skills Developed: Python, API, XML

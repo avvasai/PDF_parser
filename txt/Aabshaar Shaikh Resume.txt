@@ -1,0 +1,43 @@
+
+AABSHAAR SHAIKH 	B T E C H ( C S E )
+ABOUT ME 	PROJECTS
+Currently a DY Patil International university student. To build career in a growing organization, where I can get the opportunities to prove my abilities by accepting challenges.
+PERSONAL INFO
+Phone
+:
+7796562020
+Email
+:
+aabshaarshaikh@gmail.com
+Address
+:
+Pradhikaran, Pune 411044
+Language
+:
+English, Hindi, French(Beginner)
+SKILLS
+Python PHP HTML Basic of Java Basic knowledge of Artificial Intelligence and Machine Learning
+EDUCATION
+Food Management App - Ongoing The high standard of living has resulted in the wastage of food. So, as a solution I am trying to develop a platform where poor and needy people can get the food. “Give what you have more, Take what you need” as tagline says, who has more food will just need to donate the food through the app. 
+Chatbot based Song Recommender System (May21-July21)
+Nowadays, people often prefer to listen to music based on their moods and interests. Our project focuses on a system that suggests songs to the users, based on their state of mind through chatbot interaction. Once the emotion is recognized, the system suggests a song for that emotion, saving a lot of time for a user over selecting and playing songs manually.
+AI Chatbot for Cancer Patients (Sep21-Nov21)
+Healthcare is very important to lead a good life. However, it is very difficult to obtain the consultation with the doctor as it’s time consuming and also cost a lot of money. The idea is to create an AI Chatbot for Cancer Patients using Artificial Intelligence that can provide basic details about the disease before/after consulting a doctor and will help them through their journey. This will help to reduce healthcare costs and improve accessibility to medical knowledge through medical chatbot 
+ACCOMPLISHMENT
+Certificate from coursera:
+2017
+St Ursula High Scool (SSC Board)
+Python Specialization 
+Design Thinking 
+2017 - 2020
+Microsoft AI Classroom Series Certificate
+Pimpri Chinchwad Polytechnic College Diploma in Information Technology
+2020 - 2023
+DY Patil International University
+INTERESTS
+BTECH in Computer Science and 
+Artifical Intelligence
+App Development
+Engineering
+Machine Learning
+Full Stack Development

@@ -1,0 +1,20 @@
+EDUCATION 
+ Dhruv Deshmukh +97150-859-8381 | dhruvdeshmukh1990@gmail.com
+Dy Patil International University Bachelor of Technology in Computer Engineering, 2023 
+EXPERIENCE
+Marketing for IT product | Epson:	 Jun 2021 – Jul 2021
+●Selling and marketing the printers for Epson.
+Executive Lead | Dy Patil International University:
+●Executive Lead for Lasux-v Club in the university.
+●Club did code competitions and seminars.
+PROJECTS
+ASIC design for S-DES Encryption/Decryption (Logisim) 	● Chip design for s-des Algorithm using logic gates in Logisim. 
+Sending Files Over Radio (Python, Radio Hardware) 	● Binary of a file is sent over the radio using FM and decoded back to the 	file format after a parity check. 
+Vehicle Theft Prediction ML (Python, Dash) 	● Polynomial regression to predict Vehicle theft state-wise in India per year all displayed 	visually on a choropleth map of India. 
+Heart Failure Prediction ML (Python, HTML, CSS) 	● Predicts the likelihood of a person having heart failure in the future with a pleasing 	Html forum. 
+Fire Evacuation System (ESP 32, Sensor) 	● Electronic doors auto unlock when sensor detects fire. 
+Blood Oxygen Levels to Unlock Doors (ESP 32, Sensor) 	● Electronic door unlocks when blood oxygen level is above a certain percentage 	Indicating they are not sick. 
+EXTRACURRICULARS
+● Team Member of UAE PARKOUR ● DJ / Producer 
+Technologies and Languages
+● Python, JavaScript, SQL, HTML, CSS, MATLAB ● Flask, Sk-learn, NumPy, Pandas, Dash 

@@ -1,0 +1,58 @@
+
+GURVINDER KAUR MATHARU 	gurvinderkaur3108@gmail.com 	+91 9028558132
+https://www.linkedin.com/in/gurvinder-kaur-matharu-8a90631b4/ 	Rohan Mithila, Viman Nagar
+https://github.com/gurvinder08 	Pune - 411014
+O B J E C T I V E  S U M M A R Y 	E X P E R I E N C E A motivated and passionate computer science student seeking for 	Internship in DYPIU:
+internship opportunities to learn in a professional environment and 	Survey of Different Rumor Detection
+develop my skills. 	Models in context to their pros and
+cons (June 2021)
+P R O J E C T S
+S K I L L S
+
+Inverse of a matrix: Finding the inverse of a 2x2 matrix using
+python
+
+Python, Java
+
+Car Rental Management System: In this project, the user can view
+
+HTML
+
+MS Office
+the car details on the website. PHP, HTML and CSS were used in developing this project
+
+MySQL
+
+Known Operating Systems:
+
+Color Detection: In this project, the user can get the color name
+Windows, Ubuntu (basics)
+by clicking anywhere on the image with the help of OpenCV library.
+
+Teamwork, Time Management,
+Written Communication
+
+
+Heart Disease Prediction: This project helps in the early diagnosis
+of heart related diseases with the help of random forest classifier. 
+A C H I E V E M E N T S
+E D U C A T I O N
+
+CodeChef DYPIU Chapter
+Executive Team Member (O&M)
+B. TECH CSE D Y Patil International University, Akurdi 2019 - 2023
+Overall CGPA: 8.4
+SENIOR SECONDARY (XII) - CBSE BOARD Army Public School, Kirkee 2017 - 2019
+Percentage scored: 92.2%
+SECONDARY (X) - ICSE BOARD The Bishop's Co-ed School, Kalyani Nagar 2005-2017
+
+Data Analytics With Python Course
+(MyCaptain)
+
+MATLAB Onramp Course
+
+Algorithms, Data Collection, and
+Starting to Code Course (Coursera)
+
+L A N G U A G E S English, Hindi, Punjabi
+Percentage scored: 93%

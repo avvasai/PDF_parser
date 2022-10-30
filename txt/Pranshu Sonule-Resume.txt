@@ -1,0 +1,23 @@
+Pranshu Sonule
+Email: Pranshusonule03@gmail.com Contact: +91 8975677396 Highest Career Level: Fresher Industry: Software Development,
+Technology
+WORK EXPERIENCE
+SKILLS/IT SKILLS
+Research Intern 
+Dy Patil International University, Pune Jun 2021- Aug 2021 Developed an Automatic evaluation of answer sheet and marking system.
+• Python • Sql • Php • Designing • Design thinking • Unix 
+• C
+EDUCATION
+Bachelor's in Computer Science D.Y. Patil International University -Pune, Maharashtra
+• Html5 • Animation • Css • MS-Excel
+August 2019 to Present
+INTRESTS
+• Artificial Intelligence• Machine learning• Game development • Graphic Design
+LANGUAGES
+• English - Fluent • German - Beginner • Hindi - Fluent • Marathi - Fluent
+CERTIFICATION
+Coursera August 2020 to May 2022 1. AWS Fundamentals Going Cloud Native 2. Design Thinking and Global Startup 3. Game Theory With Python 4. Introduction to Augmented Reality and ARcore 5. Object-Oriented Data Structures in C++ 6. Computational thinking with C programming 7. VR and 360 Video Production Guvi April 2021 to May 2021 Building a Face recognition app using Python NASSCOM February 2021 to March 2021 Microsoft AI classroom Series
+PROJECTS / PAPERS PRESENTED 
+Malaria detection using CNN https://github.com/Pranshu-2601/Malaria-Detection-Using-CNN Pneumonia Detection Using CNN https://github.com/Pranshu-2601/Pneumonia-detetction-using-CNN Automatic evaluation of answer sheet  for Handwritten answers. High Performance computing In Medical research.
+ADDITIONAL INFORMATION
+Successfully completed 30 DAYS OF GOOGLE CLOUD 2021 https://www.qwiklabs.com/public_profiles/f8c550ed-bedb-4be1-b094-4c1a5465d86a Student Ambassador At Viral Fission

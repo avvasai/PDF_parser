@@ -1,0 +1,116 @@
+
+AVANTIKA MISHRA 
+ABOUT ME 
+A computer science student who is seeking to find an opportunity as an intern to utilize skills and abilities that offers professional growth while being resourceful, innovative, and learn from other experienced team members.
+CONTACT 
+EDUCATION 
+INSTITUTION 
+YEAR OF 
+CGPA 
+QUALIFICATIONS 
+9594970583 
+B.Tech in Computer 
+D.Y Patil 
+PASSING 
+Sem I- 6.3 
+Pursuing 
+avantikamishra019@gmail.com 
+Science 
+International 
+(3rd Year) 
+Sem II- 7.2 
+Pune, Maharashtra 
+Senior 
+University, Pune 
+2019 
+Sem III- 8.5 
+Sem IV- 8.2 
+Inhttps://www.linkedin.com/in/avantika-
+Arya Gurukul, 
+Sem V- 7.8 
+7.4 
+mishra-731111209/ 
+Secondary(12th) 
+CBSE, Mumbai 
+TECHNICAL SKILLS 
+Secondary(10th) 
+Arya Gurukul, 
+2017 
+8.8 
+CBSE, Mumbai 
+Languages: Python, C++, MySQL, HTML, CSS, Data mining, Big Data 
+ PROJECTS  1. Career Guidance App using python 	This project aims to guide those students who have completed their 	secondary education i.e, 10th & are confuse to choose a stream 	between Science/Commerce/Arts. Here, we provided a bunch of 	questions for knowing their interests & respectively giving them a 	right path they should go for. 
+2. Property Management System 
+
+Software: Microsoft Office (Word, 
+	Excel, PowerPoint), PyCharm, 	TurboC4, WordPress, Visual 	Studio Code, Virtual Box, Operating Systems: Windows, 	Ubuntu 
+WORK EXPERIENCE 
+This project deals with Rent/Sell/Buy of property based on your preferences. We provided a vast filter where you can find many 
+
+Web Development & Designing 
+options for choosing your favourite residence. We named this 
+
+intern at GRIP The Sparks 
+project as NEW DOORS.
+Foundation 
+3. Smart Garbage Monitoring System using ultrasonic sensor 
+Inhouse internship in Face 
+This system gives a real time indicator of the garbage level in a 
+
+Detection using saliency maps. 
+trashcan at any given time & by using this data we can optimize 
+SOFT SKILLS 
+waste collection routes & ultimately reduce fuel consumption. 
+4. Bus Management System using HTML, CSS, PHP & MySQL 
+This project deals with Ticket Booking, Bus Schedule & Bus Route. 
+Leadership Skills 
+The main objective to develop this project is to overcome the 
+
+Teamwork 
+manual errors & make a computerized system. 
+
+Communication Skills 
+5. A web app for Tourism Guide
+
+Listening Skills 
+This project aims to give a detailed information about the famous 
+places, hotels, cafes, etc in your locality. This information ultimately 
+ ADDITIONAL LANGUAGES 
+gives the local people more knowledge to know about their own locality which they were unaware of. 
+CERTIFICATIONS 
+
+English 
+
+Hindi 
+
+Odiya 
+
+Simulation, Algorithm Analysis, and Pointers, by University of Colorado 
+
+Marathi 
+
+Data Analysis and Representation, Selection and Iteration, by University 
+HOBBIES 
+of Colorado 
+
+Athletics 
+
+Abstraction, Problem Decomposition, and Functions, by University of 
+Colorado 
+
+Dance 
+
+Algorithms, Data Collection, and Starting to Code, by University of 
+
+Sketching 
+Colorado 
+
+Object-Oriented Data Structures in C++, by University of Illinois 
+
+Design Thinking for Innovation, by University of Virginia 
+
+Design Thinking and Global Startup, by KAIST 
+
+Microsoft AI Classroom Series, by Microsoft 
+
+Entrepreunership Cell, by IIT Kharagpur 

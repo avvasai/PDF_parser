@@ -1,0 +1,56 @@
+NIDHI SINHA
+
+PERSONAL INFO
+3rd Year B-tech Computer Science Student
+SUMMARY
+ 8579088290 nidhisinha288@gmail.com
+linkedin.com/in/nidhi-sinha01
+https://github.com/nidhi433
+I'm currently an undergraduate student pursuing a bachelor degree in B-Tech computer science with a specialization in AlML Artificial Intelligence machine learning. I'm looking forward to an opportunity to start my career as machine learning engineer along with a web developer in a company.
+I 'm really passionate about implementing new projects
+which provide me with challenges and opportunities to
+TECHNICAL SKILLS
+- Python & MySQL- Data Visualization using Power BI & Tableau- Data Analysis in MS Excel- Web Scrapping in Python- Web Development in HTML, CSS & PHP- Web Automation using selenium- AI and Machine Learning- Probability & Statistics
+improve my skills.
+EDUCATION D Y PATIL INTERNATIONAL UNIVERSITY B-techCSE - Specialization in AIML  | Aug 2019-July 2023 SHIVAM CONVENT Intermediate in PCM  | 67.8% HOLY FAITH INTERNATIONAL PUBLIC SCHOOL
+Matriculation in Science & Maths  | 8.4 CGPA
+CHARACTERISTICAL SKILLS-Motivated, well-disciplined individual-Works constructively with the tea-Can lead team to achieve goals-Effective Motivator and Negotiator-Communicate Effectively
+WORK EXPERIENCE Web Development Intern The Sparks Foundation | June 2021 - July 2021
+PROJECTS Neuroscience Data Analysis
+DYPIU | Jun 2021 - Jul 2021
+
+Studied real-world dataset of Parkinson’s
+Disease
+
+Performed data visualization  & regression
+Car Price Prediction App (08/2021 - 11/2020)
+
+ Performed data preprocessing, data cleaning,
+data analysis on an existing dataset. 
+
+Contributed with the lead to create a
+
+XGboost was used to build the model, and
+web-based banking app.
+	Streamlit was used to create the web application. Diabetes Predicting
+
+Used HTML, CSS & Javascript for making
+the website.
+DYPIU |  Nov 2021 - Dec 2021
+Campus  Ambassador 
+
+Performed EDA on the given dataset
+ MyCaptain's | April 2021-May 2021
+
+Used keras for sequential modeling &
+ Volunteering Internship 
+
+training the data
+And evaluated the model using the
+Youth Empowerment Foundation | May 2021 - June 2021
+Confusion matrix and ROC curve
+Strata Analytica Student Volunteer | May 2022 - Present
+Strata is a startup with a mission to improve and manage infrastructure needs of cities and town around the world
+Covid-19 management system 	DYPIU |  Feb 2021- April 2021 	This project is intended to be used as a tool to
+gather information about the patients who are
+vaccinated and those who are yet to get vaccine.

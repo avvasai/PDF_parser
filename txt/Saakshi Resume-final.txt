@@ -1,0 +1,91 @@
+Saakshi Mankar
+An engineer seeking challenges in data analytics to help companies with data driven decisions. Interested in solving real-life problems using cutting edge technologies.
+EDUCATION
+Institution
+Year of Passing
+Result
+Current Education, B.Tech CSE D Y Patil International University, Akurdi
+2023
+Till 5th sem: 8.2
+N.E.S Junior college (HSC)
+2019
+67%
+Mulund High School (SSC)
+2017
+81.40%
+Akurdi, Pune +91 9653106795
+saakshimankar@gmail.com
+Linkedin: <Link> GitHub: <Link>
+SKILLS
+●
+Python
+●
+R
+●
+C/ C++
+●
+Tableau
+●
+Data Visualization
+●
+SQL / Mysql
+●
+Machine Learning
+●
+Operating Systems: Windows,
+Linux
+COURSEWORK
+INTERNSHIP
+●
+Machine Learning
+●
+Deep Neural Network
+●
+The spark foundation (Data science & Business analysis)
+●
+High Performance Computing
+may 2021 - june 2021- Predicted models using supervised & unsupervised machine learning techniques.
+●
+Game Theory
+●
+DBMS
+●
+DYPIU (In house)
+CERTIFICATIONS
+April 2021 - june 2021-Survey of Di�erent Rumor Detection Models in context to their pros and cons
+PROJECTS
+●
+Google data analytics certificate
+(Coursera)
+●
+30 days of google cloud program
+●
+Python Data Science Workshop (IIT
+BOMBAY)
+●
+How can Wellness Technology Company play it Smart
+●
+MATLAB Onramp Course
+●
+Microsoft AI Classroom Certificate
+(Capstone case study) - January 2022 Using the trends discovered in smart device usage using R  & Data Visualization to help influence Company Marketing Strategy & growth.
+(NASSCOM)
+●
+C & CPP Professional Certificate
+(Coursera)
+●
+DoorStepPath (DBMS)
+●
+Design Thinking and Global Startup
+course from Coursera
+DoorStepPath is an Online Lab Appointment application used to book lab tests at doorstep.
+●
+Design Thinking from Innovation
+course from Coursera
+LANGUAGES
+English, Hindi, Marathi
+●
+Disease Prediction System (Python)
+This project predicts disease a person is su�ering from using symptoms.
+EXTRACURRICULAR
+CodeChef DYPIU Chapter Executive Team Member (O&M)

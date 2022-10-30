@@ -1,0 +1,35 @@
+Dhruv Shah Final Year Student
+Ganga Skies, Pune shahdhruv213@gmail.com +91-9168-79-4040 @shah__dhruv
+A Computer Science student that is highly motivated to learn new skills. With interest in AI/ML and Frontend development, I am always ready to grow as a developer.
+Project Experience
+Professional Qualifications
+Library Automation System
+Software and UI/UX developer
+Lead the software and creating UI/UX side of the project. 
+College Feedback System
+Webpage
+Lead for creating the Webpages (Frontend) and XAMPP (Backend) for the Feedback System.
+Motion Based Automated Diseases Diagnosis
+Software
+Worked with team-mates to develop a software to detect disease based on human motion.
+Learned a lot about AI/ML and new techniques
+Football Score Prediction System
+Software
+Lead a team of 3 to develop a system using Poisson algorithm to predict the score of a premier league.
+Diploma in Computer Engineering Pimpri Chinchwad Polytechnic (2019)
+B. Tech in Computer Engineering DY Patil International University (2023)
+Known Skills
+PYTHON
+VSCODE
+HTML
+JUPYTER NOTEBOOK
+CSS
+C (basic)
+SQL
+C++ (basic)
+ANACONDA
+JavaScript (basic)
+XAMPP Courses
+Python Mega Course - Udemy Machine Learning and Deep Learning - Udemy Machine Learning Crash Course - Google
+Ongoing Courses
+100 days of Web Development - Udemy Web Development - Udemy

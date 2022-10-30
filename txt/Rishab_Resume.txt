@@ -1,0 +1,58 @@
+
+Rishab Jha Data Scientist || Data Analyst || Front-End Developer || Python / C 
+EDUCATION 
+PROFILE 
+2019 June - 
+B-TECH- Computer Science 
+2023 July 
+•
+D. Y. Patil International University.
+2017 Jun - 
+•
+Year of completion: Currently Pursuing.
+My name is Rishab Jha. I am from Bihar but resident of Pune. I am in a final year of my graduation course in CSE (B-Tech CSE) from D.Y. Patil International University, Akurdi, Pune. My specialization subject is mostly focused on Data Science but have other interests such as UI Designer, Cyber Security and Frontend Developer. As a computer science student, I have good problem-solving skills as well as hands on practice in various technical fields. 
+HIGH SCHOOL (XII) - Science •	Sant Tukaram High School & Jr. College (STATE 
+2019 July 
+2015 Jun - 
+BOARD) 
+•
+Year of completion: 2019 
+•
+Percentage: 69.85%
+SCHOOL (X)•	Nirmal Bethany High School (STATE BOARD) 
+2017 July 
+•
+Year of completion: 2017 
+•
+Percentage: 81.00%
+WORK EXPERIENCE 
+SKILLS 
+Data Scientist 	Data Analyst Power BI/Excel 	Data Visualization 
+UI & UX Design 	Python/C/C++/ R 
+Microsoft Office Suite 	Frontend Developer HTML / CSS / PHP 	MySQL Web Scrapping 
+ACCOMPLISHMENT 
+https://drive.google.com/drive/folders/1 WJDxjl123D2QO7Z2AAZHUJgZlE-IY09U?usp=sharing 
+PERSONAL INFO 
+Data Annotation (AI/ML): STRATA UNISON (New York) | Apr 2022 - Ongoing Responsibilities during the internship is to perform data annotation on the given dataset that are going to be used to train machine learning model. 
+Web & App Development: Ananta Resource Management | Apr 2021 - Aug 2021 Worked on two different application using Microsoft power app and also using android studio and flutter as well as WIX website. 
+Campus Ambassador: NEO Educational Foundation | Apr 2021 - May 2021 Spread awareness about the National Engineering Olympiad exam with the help of different social media platforms like WhatsApp, Instagram and Facebook. 
+National LinkedIn Strategic Planner: Youth India Foundation | Apr 2021 - Jul 2021 Making strategy about how to make the company on top and to spread awareness about YIF using social media platforms. 
+PROJECTS 
+Location: Pune, Maharashtra Phone: +91 8446565099 E-mail: rishabjha0999@gmail.com LinkedIn: www.linkedin.com/in/rishab09 GitHub: https://github.com/Rishab-09 Hacker Rank: https://www.hackerrank.com/Rishab09 Portfolio: https://rishab-09.github.io/mywebsite/ Known Languages: English, Hindi, Marathi Date of Birth: 9 June, 2001 
+JARVIS-A Python ChatBot 
+Worked on a project to build a chatbot which works on 
+knowledge-based concepts like playing YouTube or Chrome or 
+sending message to someone on WhatsApp. 
+DYPIU Library 
+Created a library website based on the concept of DBMS which 
+performs simple functions like storing the books and keeping 
+the track of the books issued and many more. 
+Data Analysis/ ML Algorithm 
+Performed various statistical operation and exploratory data 
+analysis on the dataset. Also, used various techniques and steps 
+from data pre-processing to build model developing to predict 
+Targeted Advertisement & Marketing Analytics 
+the outcomes. 
+Performed ML techniques on the dummy dataset where the 
+model will suggest the ads based on the interest and spending 
+times on Instagram reels 

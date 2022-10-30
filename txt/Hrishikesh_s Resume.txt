@@ -1,0 +1,65 @@
+Hrishikesh Gond http://linkedin.com/in/hrishikesh-gond-4764b1188
+Thapar Nagar Ward, Ballarpur dist. Chandrapur, Maharashtra. (442701) +91 - 7588658075 hrishikeshgond1@gmail.com
+https://github.com/hrishigg
+ACADEMIC EDUCATION D Y Patil International University, Pune - Graduation(CSE) Year 2019 - Year 2023 DYPIU Gurunank College Of Science, Ballarpur - Jr. College(XII) Year 2017 - Year 2019 Maharashtra State Board Of Secondary and Higher Education, Nagpur.
+Montfort Hr.Sec School, Ballarpur - Secondary(X) Year 2006 - Year 2017 CBSE EXPERIENCE Summer Research Intern - DYPIU, Pune.
+June 2021 - July 2021 Caste, Wealth and Regional Inequalities in Health Status in India.
+The present Report has made an attempt to assess the di�erent human development factors like the health status of the caste-biassed population in India. For this purpose, secondary data have been collected, Sorted, Analysed, and made reports.
+PROJECTS Bus management system in DBMS(Done)
+POSITIONS & RESPONSIBILITY
+ Campus Ambassador Entrepreneurship Cell, IIT Kharagpur 2021 - 2022.
+Hackathon  Coordinator Conducted a successful event by Smart India Hackathon.
+ April 2022.
+Fest Coordinator I worked with the organizing committee at my college and successfully organized the event in 2019.
+INTERESTS
+Data Science/Analytics, IT Industry
+SKILLS
+●
+Python (Beginner)
+●
+R Studio(Beginner)
+●
+Tableau(Intermediate)
+●
+This project was made to help us to study and understand the data
+management systems.
+●
+SQL(Intermediate)
+●
+And it also solves some small problems in the current existing bus
+●
+MS-o�ce(Expert)
+booking system.
+Brain Tumor Classification(Done)
+●
+Data Visualization(Beginner)
+●
+Jupyter, Google
+Colab(Intermediate)
+●
+The aim of this project is to predict the position of tumors in
+brain MRI using deep learning algorithms.
+●
+Presentation(Expert)
+●
+We used  Mask R-CNN to build an actual detector that will point out
+CERTIFICATIONS
+the location of the tumor on the scan.
+A. I. based security system(Ongoing)
+●
+Google Certified Data Analyst
+●
+Data Analysis with R
+●
+Our project deals with security by using security cameras we
+Programming
+planned to merge A.I. (Which will also make a track on vehicles) with the current existing security system for managing and securing the parking.
+●
+Crash course on python by
+Google
+●
+We got this idea from our college entrance system which is very
+●
+Design thinking and global
+slow and also money consuming.
+start-up

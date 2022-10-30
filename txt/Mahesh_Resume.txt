@@ -1,0 +1,76 @@
+
+MAHESH CHAUDHARI
+I have a passion for working for data-driven, innovative companies. I like advanced technology to address everyday problems for 
+consumers and businesses alike. I also enjoy solving issues using an analytical approach and am passionate about incorporating 
+technology into my work.
+Contact Info 	Education
+
+
+Bachelor's Computer Science (Data Science & AI/ML) DY Patil International University, Akurdi
+Jul 2019 – Jul 2023
+
+Wakad, Pune
+
+9405961281
+Certifications 
+
+Java Development Certified Professional (AICPE & ITT-COUNCIL) Associate Android Developer Certification (AICPE & ITT-COUNCIL) 
+
+maheshchaudhari842 @gmail.com
+LinkedIn: www.linkedin.com/in/mahes h-chaudhari-30072a205
+Python Data Science Workshop (IIT BOMBAY) 
+Microsoft AI Classroom Certificate (NASSCOM) 
+Skills
+
+Advanced C & CPP Professional Certificate (Coursera) Introduction to Cloud Computing (Coursera) 
+Python 
+R 
+Amazon Cloud Developer Certification (Amazon) 
+Android 
+Javascript 
+ Oracle Database Administrative Certificate (AICPE & ITT-COUNCIL)
+Website Development 
+Projects
+
+Node.Js 
+HTML 
+ Java 
+C & CPP 
+1. FoodFlights Private Limited (Self Startup)
+MySQL 
+Microsoft Word 
+Microsoft Excel 
+Language
+
+TECHNOLOGY USED: (Java/ Android Studio).
+PROJECT DESCRIPTION
+	FoodFlights is Android Native Application which is based on Cloud Kitchen like Zomato and Swiggy which I have started in rural area like Shahada, Nandurbar, 
+Shirpur where there are not any option of Zomato and Swiggy. FoodFlights has 5000+ Downloads and 200+ User Reviews on  Google Play Store. FoodFlights generates Rs.30,000+ per month. 
+ROLES AND RESPONSIBILITES
+Connect android application to back end services. 
+English 
+Hindi 
+Android UI Design in XML. 
+Design and implemented Rest full web services. 
+Marathi 
+Worked on SQLite Database. 
+ Firebase Authentication, Storage, Cloud Messaging, Analytics.  Amazon ec2 instance. 
+Google Cloud Platform & Google Maps Platform. 
+2. Twitter sentiment Analysis (Python)
+	Handcrafted feature bases approach on boston Marathon bombing (April 15 , 2013). In this I have worked on real time rumour debunking algorithm for twitter by using beliefs of the crowd & perfomed text analysis on data. 
+3. How can Wellness Technology Company play it Smart (Capstone case study) (Python) 
+	Using the trends discovered in smart device usage using R language & Data Visualization to help influence Bellabeat Marketing Strategy & unlock new growth opportunity for the company. 
+4. Internship (3 Months)- DoorStepPath (Online Lab Appointment Android Application) 
+DoorStepPath is Online Lab Appointment Android Application used to book lab test doorstep. I was team leader at the time of internship under Research Scientist Dr. Bahubali Shirsagar. We have used Data Mining, Data Analysis using Python & R during this internship and have build Realtime Application. 
+5. Face Detector App (Python)
+	In this project I have developed a program which locate and visualize the human faces in any digital image. I have used OpenCV dependency/package in this project. OpenCV is the most popular library for computer vision.
+6. Self Driving Car App (Python) 
+In this project I have developed a program with features like Detecting Lane, Traffic Signal Classification, Behavioral Cloning, Advanced Lane Finding, Vehicle Detection & Tracking, Path Planning, Road Segmentation. I have used Computer Vission, Deep Learning, OpenCV etc for this project.
+7. Disease Prediction System (Android, Python) 
+	In this project I have developed Android App which predicts disease a person is suffering using symptoms. In this project Data Mining, Data Analysis, Data Structure Algorithm were used. 
+Strength 
+
+Analytical Skills, Leadership Skills, Communication Skills, Ability to work in A team. I always try to learn new things on daily basis, I can easily adapt to any  environment, always being ready to help others.
+Weekness 
+
+ Overthinking, getting emotional easily, sometimes doesn't speak at times when I should. (I’m working on transforming my weekness into strength) 

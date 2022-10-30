@@ -1,0 +1,58 @@
+Ashwin Jawalikar
+ashwin98rj@gmail.com +91 9307996914
+Osmanabad, Akurdi
+EDUCATION
+Bachelor of Technology (B.Tech), Computer Science & Engineering
+D Y Patil International University 2019 - 2023
+Bachelor of Chemical Engineering Heriot-Watt University Dubai 2016 - 2019
+Senior Secondary (XII) Cambridge International School, Dubai (IGCSE board) Year of completion: 2016
+POSITIONS OF 	Was a part of the events team for my college's competitive coding chapter RESPONSIBILITY 	(CodeChef DYPIU Chapter) between 2020-2021.
+Was a part of the Crossroads Inn as a commander (2016-2018) for an MMO video game called Guild Wars 2 where I had to form a group with 9 other new players, organize and guide them through various raid/dungeon levels near the end-game.
+TRAININGS 	Applied Machine Learning In Python 	Coursera, Online 	Oct 2020 - Oct 2020
+coursera.org/verify/RGEXDRBPTHVU
+Applied Plotting, Charting & Data Representation In Python Coursera, Online Aug 2020 - Aug 2020
+coursera.org/verify/JNWUMY86MV6F
+Introduction To Data Science In Python Coursera, Online Aug 2020 - Aug 2020
+coursera.org/verify/84V2DK2EB8CD
+PROJECTS 	Human Activity Recognition using Multiple models on UCF101 Dataset 	Jun 2021 - Jul 2021  https://github.com/Cookie182/Action-Recognition
+Used deep learning via Tensor�ow to classify each frame from videos into their respective human action from the UCF101 dataset. Created VGG16, VGG19 and Inception model from scratch and compared performance with my custom model.
+Grade Storage/Prediction using MySQL and Python
+Feb 2021 - Apr 2021
+https://github.com/Cookie182/Grades_prediction
+Building a database system where teachers can enter students' grades and where students can see their actual grades along with rolling predictions and probability of them passing each subject depending on their current grades.
+House prices competition on Kaggle
+Nov 2020 - Nov 2020
+https://github.com/Cookie182/personal-projects/tree/main/house-prices
+Attempted to get the best possible accuracy from the models trained on the given database from the competition.
+Kaggle pro�le: https://www.kaggle.com/ashwinjawalikar
+Relationship between grades and various socioeconomic factors
+Oct 2020 - Nov 2020
+https://github.com/Cookie182/personal-projects/tree/main/student-performance
+The database for this was taken from Kaggle and features a small set of socio economic aspects to consider of a student. With that I tried to �nd trends/relationships between them and the academic performance of the student.
+Titanic competition on Kaggle
+Oct 2020 - Nov 2020
+https://github.com/Cookie182/personal-projects/tree/main/titanic
+Participated in the Titanic competition on Kaggle where we were given a dataset of the passengers aboard the cruise ship and models were created to predict if each passenger (depending on various factors) had survived or not after the crash.
+SKILLS
+Python
+Machine Learning
+Intermediate
+Beginner
+Data Analytics
+MySQL
+Beginner
+Beginner
+Data Science
+English Pro�ciency (Spoken)
+Beginner
+Advanced
+English Pro�ciency (Written)
+MS-Word
+Intermediate
+Intermediate
+MS-Excel
+Intermediate
+WORK SAMPLES 	GitHub pro�le
+https://github.com/Cookie182
+ADDITIONAL DETAILS	- Semester 4 GPA: 3.9	- Semester 3 GPA: 3.8
+- Applied for Data Science specialization in my university- I am teaching myself how to play the guitar- Love working in a team

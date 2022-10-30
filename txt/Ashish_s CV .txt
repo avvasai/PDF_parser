@@ -1,0 +1,93 @@
+Ashish Kumar Ratre 
+I'm Ashish, a third year undergrad at DY Patil International University, Pune. An enthusiastic student with highly motivated and leadership quality exploring Computer Science and trying hand on new technologies. 
+
+ratre589@gmail.com 
+
+6265252041 
+
+linkedin.com/in/ashish-ratre 
+
+github.com/ashishratre404 
+EDUCATION 
+SKILLS 
+Bachelor of Technology CSE DY Patil International University Pune 
+Python 
+React.js 
+Node.js 
+Express.js 
+MongoDB 
+JavaScript 
+CSS 
+HTML 
+2019 - Present, 
+Pune, Maharashtra , India 
+Py-Game 
+Flask 
+MySql 
+Git and Github 
+Courses 
+Python 
+Data Structure 
+C and C++ 
+Machine Learning 
+Design And Analysis
+Data Base
+ACHIEVEMENTS 250 + Problem solved at Leetcode 
+Leetcode April Challenge Badge (2021) 
+of Algorithm 
+Management 
+12th Grade Javahar Navodaya Vidyalaya Korba 
+2018, 
+Korba, Chhattisgarh, India 
+Courses 
+Mathematics 
+Computer Science 
+Leetcode Graph Badge 
+PERSONAL PROJECTS 
+Wordle Game
+
+CERTIFICATES 
+Wordle is daily word game. Player has to guess 5-letter
+Blockchain Basic (10/2021)
+
+word. 
+Technologies used :- HTML, CSS, JavaScript
+Computational Thinking with Beginning C
+Blogging Website 
+Programming (09/2020)
+
+Blogging Website : User can register and create, update,
+Object-Oriented Data Structures in C++ (07/2020)
+
+delete their post. 
+Tech Sack: - ReactJs
+Design Thinking and Global Startup (08/2021)
+
+Sorting Algorithm Visulizer
+
+Visualizer for Sorting algorithm :- Insertion Sort,
+Selection Sort, Bubble Sort, Merge Sort, Quick Sort and
+LANGUAGES 
+Hindi 
+Heap Sort.
+Tech Stack:- Javascript and Sass
+English 
+Full Professional Proficiency 
+Native or Bilingual Proficiency 
+WORK EXPERIENCE 
+Machine learning Intern 
+INTERESTS 
+DYPIU 
+Solving DSA Problems 
+Website Development 
+08/2021, 
+Work From Home 
+Reading Books 
+Playing Chess 
+Achievements/Tasks 
+Project : Stock Price Prediction 
+Tech used for this project: LSTM, Linear Regression, SVR, Random Forest
+Web Development Intern The Sparks Foundation 
+06/2021, 	Work From Home 
+Achievements/Tasks 
+Major Task :- To build Banking System Website 

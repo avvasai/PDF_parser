@@ -1,0 +1,55 @@
+
+AKSHAT SINHA Software Developer
+Aspiring Developer and Programme Devotee with excellent understanding of basic development principles and keen interest in machine learning and data science. Detail-oriented, organized and meticulous personality. Enthusiastic team player ready to contribute to company success. First-rate critical thinking and organizational skills. 
+Personal Info:
++91 9512112708
+akshtsinh@gmail.com
+github.com/AkshaSin
+Vadodara, Gujarat
+Skills
+Java
+FLutter
+Android Development
+Machine Learning
+Pyhton
+Git
+HTML
+CSS
+Cloud computing
+C++
+Dart
+CSS
+Tensorflow
+EDA
+Interpersonal Skills
+Communication
+Team-Worker
+Leadership
+Organizational Skills
+Education
+2019-2023
+B.Tech in Computer Science
+D.Y.Patil International University, Pune Learn about Programming with special focus on AIML and Data Science
+Internships
+Stock Prediction using AI in Python- DYPIU
+Accomplishments
+National Engineering Olympiad 4.0 Cleared Round 1 with 4144th rank
+(6/2021-8/2021), Remote
+Aim was to predict the future value of the financial stock of any company using AIML
+Researched on various machine learning algorithms
+Co-ordinated with the team and took part in team building activities
+Microsoft AI Classroom Series Workshop (02/2021 - 02/2021)
+ Projects Project MedCare
+Design Thinking and Global Startup (08/2020-08/2020)
+Google Cloud Computing in AIML (10/2021-10/2021)
+Blockchain Basics (02/2022-08/2022)
+Assist users in maintaining their medical records in a virtual environment with a digital healthcard.
+Technologies Used: Flutter, Dart, Firebase
+Established a rapport with the team
+Crime Reporting Management System
+Assist users in reporting a crime (Virtually) and making the management of those reported crimes were interactive and user-friendly for clients.
+Technologies Used: HTML, CSS, JavaScript, MySQL and PHP.
+Languages  Cardio Vascular Ailment Predictor
+English -Excellent working proficiency Hindi -Native Proficiency Gujarati -Limited Proficiency Marathi -Limited Proficiency
+Built a model based on random forest algorithm that can predict the possibility of a heart attack.
+Performed Data Curation, EDA and Feature Engineering Techniques Compared the accuracy of multiple MLModels to select the best version Technologies Used: Python, Machine Learning, Jango

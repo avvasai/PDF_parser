@@ -1,0 +1,68 @@
+Ashwati Shrimali 3rd Year B-tech Computer Science Student 
+ashwatishrimali2001@gmail.com  
+7203841170 	
+Passionate about coding and learning new skills. 
+Ahmedabad, India 
+
+EDUCATION 
+SKILLS 
+CSS 
+Augmented Reality 
+B-tech in Computer Science 
+Python 
+HTML 
+DY Patil International University 
+8.6 CGPA 
+Django 
+SQL 
+Data Structures and Algorithms 
+08/2019 - Present, 
+12th Grade 
+OpenCV 
+MPI 
+The new tulip international school 
+04/2018 - 04/2019, 
+86.4% in CBSE boards 
+10th Grade The new tulip international school 
+04/2016 - 04/2017, 
+9.4 CGPA in CBSE boards 
+INTERNSHIP 
+PERSONAL PROJECTS 
+Predicting diabetes. (09/2021 - 11/2021) Performed data preprocessing, data cleaning, data standardisation on an existing dataset. 
+Model building using multilayer perceptrons and evaluating the model. 
+Car Price Prediction App (08/2021 - 11/2020) 	Performed data preprocessing, data cleaning, data analysis on an
+Augmented Reality Developer IITD-AIA Foundation For Smart Manufacturing 
+06/2021 - 07/2021, 
+Tasks 
+Developed an AR application for the maintenance of Multi-Process Robotic Cell (MPRC). 
+existing dataset. 
+XGboost was used to build the model, and Streamlit was used to create the web application. 
+Job Portal (01/2021 - 04/2021) 
+Job Portal is a web application built using Django and MYSQL. The idea suggestion and database creation was by me. 
+The features added were create profile, apply for jobs, view messages for employees. 
+Created the cad using Creo Parametric. 
+Created Sequences in Creo illustrate. 
+The features for employers are post, delete or update a job, send message to the employee, view employee profile. 
+Added 2D widgets, created the entire application in Vuforia Studio from scratch using MPRC cad. 
+Neuroscience Data Analyst Intern DY Patil International University 
+ACHIEVEMENTS FSM - IIT Delhi (06/2021 - 07/2021) 
+06/2021 - 07/2021, 	My project was shortlisted among the top 35 of 85 individual projects
+Internship was completed on a project with the guidance of college professors. 
+Tasks 
+and three of the 20 Augmented Reality projects. 
+Performed data cleaning on the existing dataset on Kaggle for Parkinson's Disease. 
+CERTIFICATES 
+Found correlation and linear regression between dependent and independent variables. 
+Tools and techniques used were excel, google sheets and python for analysis. 
+Student Volunteer Strata Analytica 
+09/2021 - Present, 
+Microsoft AI Classroom Series (02/2021 - 02/2021) Engineering Virtual Program (05/2021 - 05/2021) Software Engineering Virtual Experience (05/2021 - 05/2021) Summer internship completion certificate (06/2021 - 07/2021) 
+Strata is a startup with a mission to improve and manage infrastructure needs of cities and town around the world. 
+Tasks 
+Volunteering to annotate the images provided each week
+with the help of a software. 
+Certificate of completion from DY Patil International University 
+FSM Online Summer Internship 2021 (06/2021 - 07/2021) 
+LANGUAGES 
+Python 	HTML Professional Working Proficiency  Limited Working Proficiency 
+CSS Limited Working Proficiency 

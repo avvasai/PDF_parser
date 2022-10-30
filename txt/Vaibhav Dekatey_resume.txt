@@ -1,0 +1,64 @@
+
+Vaibhav Dekatey 
+
+EDUCATION 
+vaibhav2001dekatey@gmail. com 
+
+7620896333 
+Study Program D Y Patil International University 
+Courses 
+B.Tech CSE 3rd Year 
+
+Nagpur, India 
+WORK EXPERIENCE 
+28 April, 2001 
+
+linkedin.com/in/vaibhav-
+Graphics Co-Lead Codechef DYPIU Chapter 
+07/2020 - 03/2021, 
+dekatey-687a481a5 
+
+instagram.com/artistquill27 
+CERTIFICATES 
+Computational Thinking with Beginning C Programming 
+SKILLS 
+Credential URL: https://www.coursera.org/account/accomplishments/specialization/certificate/532ZKJH6ZNM8
+Python 
+Object-Oriented Data Structures in C++ 
+Credential URL: https://www.coursera.org/account/accomplishments/certificate/F38AJ5LG5D6K
+Beta Testing 
+KVM 
+The Bits and Bytes of Computer Networking 
+Credential URL: https://www.coursera.org/account/accomplishments/certificate/YLH3Y639ACA6
+VMware 
+Qemu 
+Design Thinking for Innovation 
+C/C++ 
+MySQL 
+Credential URL: https://www.coursera.org/account/accomplishments/certificate/YHJ6MB65QLXU
+Design Thinking and Global Startup 
+Rust 
+Adobe XD 
+Credential URL: https://www.coursera.org/account/accomplishments/certificate/JSFETDE4277H
+Crash Course on Python 
+Framer 
+Figma 
+Credential URL: https://www.coursera.org/account/accomplishments/certificate/VEH49CYVKWPW
+Adobe Illustrator 
+Abstraction, Problem Decomposition, and Functions Credential URL: https://www.coursera.org/account/accomplishments/certificate/M9ZHA8QQSDC4
+LANGUAGES 
+PROJECTS 
+English Professional Working Proficiency 
+Marathi Native or Bilingual Proficiency 
+Hindi Full Professional Proficiency 
+Hardware passthrough using KVM 	In linux using KVM, Gpu was passed to windows VM on a muxless laptop 
+Xinput Emulation 	Xinput was emulated in linux by wrapping xinput in dinput controllers 
+Design of Embedded Systems in Home automation The project’s central aim was to automate daily home appliances using IoT to make our lives simpler and more comfortable. 
+Parking Management System 
+INTERESTS 
+The project's central aim was to create management system for parking that helps allocate the parking spaces efficiently and to give sense of security to customers parking 
+Graphics Design 
+Jazzy (Discord Music Bot) 
+Blockchain development
+Discord Music Bot that delivers high-quality music to a discord server that can stream music from Youtube and spotify. 
+Sketching/illustrations 

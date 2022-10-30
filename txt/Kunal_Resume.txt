@@ -1,0 +1,37 @@
+
+KUNAL PATIL
+PROFILE I am a driven Data Analyst with areas of competence in Data visualization and Data mining.
+A skill and visionary leader, passionate for working with and analysing DATA logically . Dependable and flexible with working on every domain in data science.
+EDUCATION
+B.Tech (CSE), D Y Patil International University, Akurdi, Pune
+CONTACT
+Aug 2019 - May 2023
+kunalpatil08102001@gmail.com
+8956039903
+cgpa -(7.34/10)
+Jun 2017 - May 2019
+Higher Secondary Education, R.C.Patel Arts, Commerce & Science Junior 
+SKILLS
+College, Shirpur
+Jun 2010 - May 2017
+82.92%  (539/650)
+Data analysis
+Secondary education,  R.C.Patel Secondary School Shirpur Main Building, 
+Python Programming
+Shirpur
+92.20% (461/500)
+c/c++
+MySql
+PROJECTS
+ Blood bank portal -
+OTHERS
+Developed a APP which is used to get blood bank details 
+ Leadership
+and to find blood donar in our  respective area using pincode
+ATM Machine using Python-Build python GUI project which is similar to ATM Machine 
+To learn and explore new things
+Hardwork
+Customer Segmentation using PySpark-Identify the customer segments using the K Means 	Dedication Clustering algorithm.
+Disease Predictions with Data Science-To predict the disease based on the symptoms.
+INTERNSHIP 	Smart Pathology  Lab  (1 month Inhouse Internship)
+COURSES AND CERTIFICATION Programming for Everybody - coursera Object Oriented Data Structures in c++ - coursera Data Analysis and Representation,selection and iteration - coursera Design Thinking and Global Startup-coursera Microsoft AI Classroom Series- Microsoft

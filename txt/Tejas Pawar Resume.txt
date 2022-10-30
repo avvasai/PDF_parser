@@ -1,0 +1,44 @@
+
+Career Objective
+Secure a responsible career opportunity to fully utilize my training and skills, while making a significant contribution to the
+Tejas Pawar DATA SCEINTIST / FULL STACK
+DEVELOPER / SUPPLY CHAIN
+success of the company.
+Work Experience LLAJJA - Sustainable Clothing Brand
+Business Analyst + Full Stack Web Developer
+Jul 2021 -  Sep 2021
+Education 
+
+While working at LLAJJA my responsibilities
+Bachelor of Technology in Computer Science Engineering with specilization in Data Science D. Y. Patil International University 	August 2019 - Current
+Add On: 	Supply Chain Management. 
+Nov 2021 -March 2022
+were to do research and provide solutions to problems and design a website accordingly.
+	Tools Used: PHP, VS Code, Python, Jupyter
+Godaamrut Farmers Producer Company Ltd Project Manager + Data Scientist 	Jan 2021 - May 2021
+Contact
+
+Converting theoretical research data into
+practical applications by designing software
+Akurdi-Pune, 411044 beingtejas4912@gmail.com +919694280807 GitHub Username: @tejasy4912
+https://www.linkedin.com/in/tej as-pawar-2919ab1b0/
+solutions and automation tools for giving better agriculture services to farmers.
+	Tools Used: R Programming, R Studio, Python, 	Jupyter, Kaggle. Tableau.
+Projects Young Dumb Broke | Youth Lifestyle
+Skills
+Platform Start-up
+Python
+R Programming
+
+A start-up in its growing phase. It focuses
+on the overall development of the youth by focusing on sections like self-care, Skills Learning, self-growth events, mental health, and many more. 
+Diabetic Retinopathy Prediction
+HTML, CSS & JS
+JetBrains IDE
+Jupyter
+Power BI
+Tableau
+Data Analysis  Data Mining 
+Big Data Analysis  ML  NLP
+Data Science
+	automatic detection for diabetic  retinopathy using non-dilated retinal 	images at early stages

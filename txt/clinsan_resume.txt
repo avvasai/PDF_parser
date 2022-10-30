@@ -1,0 +1,35 @@
+CLINSAN  FERNANDES Student (3rd Year) B-tech-CSE 
+Performance oriented engineering student working towards B-tech in Computer Science Engineering (Artificial Intelligence and Machine Learning), who surmounts in maintaining Hardware and Software, developing automation scripts and resolving any technical requests. Possesses well developed communication skills and has the ability to perform as a team. 
+EDUCATION 
+	BTech | Dy Patil International University                                            Present: 2022 	 Expected Graduation Date: June 2023-August 2023                                                         	Course: BTech- Computer Science and Engineering 	CGPA:    8.3/10.0 (4th Semester) clinsanfernandes01@gmail.com 
+EXPERIENCE 
+91-8698898180 
+DATA Annotator (Student volunteer Intern)                               Remote
+Strata-Unison, New York, NY / September 2021 – November 2021
+https://www.linkedin.com/in/cli	•Tag and annotate large volumes of Images to serve as input for the 
+nsan-fernandes-34085819b 	machine learning team 	•Help aggregate, clean, and organize data for machine learning 	applications 
+https://github.com/Clinsan 
+Research Intern 
+ DY. PATIL INTERNATIONAL UNIVERSITY, Pune, India / June 2021 – July 2021 Hno. 67,Igreza Waddo,Marna, Siolim ,Bardez Goa; 	•Developed an Automatic Evaluation of answer sheet and Marking INDIA  403517 	System 	•Helped to refactor the system. Eliminated 40% of team efforts  of  existing code, with an overall code base reduction of about 30%.
+•Developed using Python , Tkinter, XLRD and fuzzywuzzy logic
+PYTHON C++ Flask SQL Html CSS Bootstrap MS OFFICE Data Structures Keras sklearn Deep Learning 
+Adaptability 
+Team Player 
+Result Driven 
+Time Management 
+Planning & Organisation 
+Delegation & Outsourcing 
+PROJECTS 
+❖Cancer Detection System (SKIN AND BRAIN)	•Built a Webapp to predict if a person suffers from skin cancer 	and brain tumor using MRI scans and Dermoscopic images.
+•Built using Flask, Keras Model,Html,CSS,Javascript,Bootstrap.
+❖Hospital Management System:	•A Webapp used to book appointments  and handle Hospital 	operations.
+•Worked as an equal member of a three person team. Contributed  to develop the frontend and database.
+•Built using Flask,Html,CSS,Javascript,Bootstrap,PHP,SQL.
+Activities 
+❖Participated in GOOGLE 30 DAYS OF CODE  https://www.qwiklabs.com/public_profiles/6c5d345c-08a7-4220-8f87-4b3ac89d91ab
+•
+The program was a kickstart to Computing, Application Development, Big Data & Machine Learning using Google Cloud's training platform called Qwiklabs .
+❖Student Council Member (DMC High Secondary School) (AUG 2017 – DEC 2018)
+••
+Was In charge of  the core team of the Science Section  that Planned and  Organized Activities, Events and  Competition. 
+Held Monthly Council and Coordination Meets and Activities. 

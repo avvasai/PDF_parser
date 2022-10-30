@@ -1,0 +1,72 @@
+
+VEDASHREE SHINDE
+CAREER OBJECTIVE
+
+PROJECTS
+
+
+I am a 3rd year computer science student.
+Bank Management System The website is all about banking for
+Eager to secure an internship using my
+experience with python, machine learning and
+business class of small to medium group of
+building web apps using Django.
+people. Tools used Django Framework and
+EDUCATION
+MySQL.
+Diabetic Retinopathy Detection
+The project is designed to detect the given
+
+2019 - Present
+image has diabetic retinopathy or not.
+Tools used Python.
+Bachelor of Technology in Computer Science
+(AI & ML) D. Y. Patil International University 
+Parallelization of K-Means Clustering The project is research based where
+2018 - 2019
+parallelization is performed using OpenMP
+in C.
+H.S.C
+Shri. Hanumantrao B. Bhosale Jr. College
+INTERNSHIP
+2016- 2017
+
+Drones Controlled Using Eye Blinks 
+S.S.C
+Amrita Vidyalayam
+(DYPIU)
+CERTIFICATES
+Here feature extraction is done using EEG
+signals for eye blinks. Tools used Python
+and MATLAB.
+
+NASSCOM
+SKILLS
+- Artificial Intelligence Foundation
+
+Coursera
+PYTHON
+
+- Computational Thinking with C Programming
+DJANGO
+
+- Design Thinking for Innovation
+CONTACT
+MATLAB
+
+C
+
+
+MYSQL
+
+
+Runal Florence, Nigdi, Pune-44
+
++91 9359253135
+LANGAUAGES
+vedashreeshinde4@gmail.com
+
+|
+
+
+English, Marathi, Hindi

@@ -1,0 +1,37 @@
+
+RITIKA KUMARI
+AI & Data Science
+PERSONAL PROFILE
+Hi there, I'm Ritika Kumari, a third-year CSE student at D Y Patil International University. As a student of computer science engineering, I have good expertise and experience in various technical fields.
+Ritika
+TECHNICAL SKILLS
+- Python & MySQL- Data Visualization using Power BI & Tableau- Data Analysis in MS Excel-  Web Scrapping in Python-  Web Development in HTML, CSS & PHP-  Web Automation using selenium-  AI and Machine Learning-  Probability & Statistics
+EDUCATIONAL HISTORY
+D Y PATIL INTERNATIONAL UNIVERSITY CSE - Specialization in AI  | Aug 2019 - July 2023
+PRAKRITIK SCHOOL Intermediate in PCMB  | Passed out in 2019
+RNP PUBLIC SCHOOL Matriculation in Science & Maths  | Passed in 2017
+WORK EXPERIENCE
+Web Development Intern The Sparks Foundation | June 2021 - July 2021
+CHARACTERISTICAL SKILLS
+
+Contributed with the lead to create a
+web-based banking app.
+- Motivated, well-disciplined individual- Works constructively with the team- Can lead team to achieve goals- Effective Motivator and Negotiator- Communicate Effectively
+	Used HTML, CSS & Javascript for making
+the website.
+PROJECTS
+HOBBIES
+- Painting & sketching- Watching movies (live action & animations) _ Listening music
+Diabetes Predicting DYPIU | Nov 2021 - Dec 2021
+
+Performed EDA on the given dataset
+
+Used keras for sequential modeling &
+training the data
+
+And evaluated the model using the
+CONTACT ME AT Mobile Number: 7079234071
+ritikakri935@gmail.com
+Confusion matrix and ROC curve Neuroscience Data Analysis DYPIU | Jun 2021 - Jul 2021
+	Studied real-world dataset of Parkinson’s 	Disease
+	Performed data visualization  & regression

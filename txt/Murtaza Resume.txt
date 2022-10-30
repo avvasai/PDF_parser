@@ -1,0 +1,87 @@
+Murtaza Bohari murtazamaimoon73@gmail.com Mobile : 9850255821 Plot No 3, Near HDFC Bank Shahada shahada, india
+OBJECTIVE
+To work for an organization which provides me the opportunity to improve my skills and knowledge to growth along with the organization objective.
+ACADEMIC DETAILS
+Degree/Course
+Institution
+Year of Passing
+Percentage / Grade
+Bachelor of Technology in Computer Science Engineering
+D.Y. Patil International University
+Pursuing
+7.4
+WORK EXPERIENCE
+Organization
+Designation
+Duration
+Krishworks Educational Sevices
+Backend Developer
+24-01-2022 to till date
+Role G    Backend Developer
+Organization
+Designation
+Duration
+D y patil International University
+Inhouse Internship
+01-05-2021 to 15-07-2021
+Role G    Developer
+PROJECT DETAILS
+Title Description
+Duration Role Team Size
+Title Description Duration Role Team Size
+Title Description
+Duration Role Team Size
+	Disease Prediction System : Have Developed a disease Prediction android application using Native android and PHP 	and MYSQL for database.
+: 1.5 month : Lead Developer : 1
+Horizon Foodie : An Online Food Ordering application developed as a startup application for our town : 2 month : Android Developer : 5
+	Alumni Management System : An online android application, that manages and connects the alumni of 	college/University to the college and student and notifies about the new placement 	opportunities that are inputted by the college to students and alumni, and further we can 	get connected to each other with the help of in built chat feature : <1 Month : Lead Developer : 1
+Title Description
+Duration Role Team Size
+Title Description
+Duration Role Team Size
+Title Description
+Duration Role Team Size
+Title Description
+Duration Role Team Size
+Title Description
+Duration Role Team Size
+Title Description Duration Role Team Size
+Title Description
+Duration Role Team Size
+Title Description
+Duration Role
+	Family Cook off : A Hotel Management Application, The application helps in management of the 	restaurants and hotels by providing them features like managing the menu, Bill 	Generation, Table Booking etc : 2 months : Team Lead : 2
+	Contact book application : A Contact book application that allows you to save your contacts, call them, and message 	them, one of my first applications : >1 month : Lead : 1
+	Disease Prediction System in Python/TKinter : A Disease Prediction System developed in python tkinter for frontend,MySQL database 	and Php Backed. An application that predicts the diseases based on the symptoms.
+: 1 month : Lead : 1
+	Matrix Calculator in Python console : A Matrix calculator built in python console that does the basic and advanced operations 	on matrices.
+: 2 days : Lesd : 2
+	Covid-19 prediction bot in python : Developed a covid-19 prediction bot in python and takes input as voice or text and 	predicts on the basis of the answers of the question if a person has covid or not : 2 days : Member : 3
+	Multiple Disease Prediction using data science : A Data Science project, that predicts the disease based on the data set provided.
+: 1 week : Member : 3
+	Blood Bank Portal : An Android Application that manages the blood bank, notifies about the new 	requirement of blood and the new doners registered and helps in providing blood on time : 1 week : Lead : 3
+	 Smart Pathology application : A Smart Pathology application that manages the pathologies and connects the users that 	need to do the test, a user can book appointment for the test by choosing the type and 	time of test and pathology can provide the service by either inviting them to the lab or go 	to thier home and do the test. This application was Built in the Inhouse Internship.
+: 1 month : Member
+Team Size
+Title Description
+Duration Role Team Size
+Title Description Duration Role Team Size
+Title Description
+Duration Role Team Size
+Title Description
+Duration Role Team Size
+: 5
+	Qr code generator tool : A Qr code generator tool developed in python flask a website that takes the necessary 	data and converts it into the qr code and returns a downloadable link, where upon 	scanning the user will redirect to the application portal where the required material is. 	The application has been  developed at krishworks Technical Services by me.
+: 1 month : Developer : 1
+Calculator App in android : A calculator developed using java and xml in android studio : 1 week : Lead : 1
+	JSON API : An api developed in nodejs that returns the output in form of json and stored in .json file 	which is transferred to the android application where the user identification takes place, 	api was built in Krishworks technical services : 1 day : Developer : 1
+	Color Code Detection in Python : A Colour code detection tool in python, that detects the colour code from the selected 	image developed in python and opencv : 1 week : Member : 5
+FIELD OF INTEREST
+G    Web development G    Android Development G    Data Science G    Data Analysis G    Backend Development
+SKILLS
+G    Android Development (java G    Flutter) G    Backend Development (php G    nodejs G    expressjs G    python flask) G    Database System (MySql G    Oracle G    Firebase G    MongoDB) G    Frontend(Html G    css
+G    js G    java G    flutter G    tkinter) G    Data Analysis (Python)
+STRENGTHS & HOBBIES
+G    Capable to work both  in a team and Individually G    Leadership G    Good Communication Skills G    Good Humour G    Traveling
+DECLARATION
+I hereby declare that the above written particulars are true to the best of my knowledge and belief. Date   :  29-09-2021 Place  :  Pune

@@ -1,0 +1,89 @@
+
+RAJ KANSAL
+
+Pune, Maharashtra
+
+LinkedIn Profile
+
+rajkansal2001@gmail.com
+
+Github Profile
+
+YouTube Channel
+9309741329
+SUMMARY
+A computer science student with dedication and determination towards work
+achievement, perfection and teamwork. Enthusiast in Data Science, Artificial
+Intelligence and Machine Learning. Always ready to learn and explore new
+technologies.
+INTERNSHIP
+Machine Learning (NLP) | Movie Recommender System
+(Github Link)(YouTube Link)
+YBI Foundation | Jan 2022 - March 2022
+	Made a smart movie recommender system with a GUI, that recommends
+similar movies based on the input provided by the user.
+	Used Kaggle dataset - tmdb.
+	Used libraries like sci-kit learn, pandas, numpy, matplotlib, NLTK.
+	Used various methods like data preprocessing, text vectorization,
+BagofWords, cosine similarity.
+	Used Streamlit and Flask for GUI.
+PROJECTS
+Data Analysis | Analyzing Vehicle Collisions in New York City
+(Github Link) (YouTube Link)
+April 2022
+	Used NYC OpenData's dataset
+	Location of the accident taking place; displayed on 3D Maps
+	Detailed Table showing -
+ -Number of people affected/injured in a vehicle collision.
+ -Number of collisions happening at a particular hour.
+ -Minute by minute breakdown of accidents happening in a particular area.
+ -Affected street names and categories of traveller affected.
+	Technologies used - pandas, numpy, pydeck, plotly
+	Used Streamlit for GUI
+SKILLS
+Python , C Selenium Data Science Machine Learning Natural Language Processing Data Structures and Algorithms Design Thinking Internet of Things (IOT)
+EDUCATION
+D Y Patil International University, Akurdi, Pune
+Present | 2022 B.Tech -  Computer Science And Engineering (July 2019- June 2023)
+GPA: 8.0/10 (as per 5th semester)
+Global Indian International School, Chinchwad, Pune
+2019 HSC (12th) : PCM Percentage : 81%
+Global Indian International School, Chinchwad, Pune
+Data Science | Cricket Winning Team Probability Predictor (Github Link)(YouTube Link) May 2022
+2017 SSC (10th) : PCM Percentage : 87%
+ACCOMPLISHMENTS
+Completed 30 days of Google Cloud Challenge (Profile Link)
+Made an IOT based smart dustbin for college's TechCombat hackathon. 
+ (Project Link)
+Got selected as a shortlisted team for Smart India Hackathon, for the final idea submission- Team ;The Rockers (Selection Mail)
+Attended Python (Certificate Link) and Cybersecurity workshops (Certificate Link)  by IIT Bombay
+Complete Microsoft AI Classroom Series (Certificate Link) 
+
+Predicting the winning probability of an IPL Cricket team in a particular
+match scenario.
+
+Based on Classification Problem - Logistic Regression
+
+Used libraries like sci-kit learn, train_test_split, onehot encoder,
+pipeline,pandas, numpy, matplotlib.
+
+Used Kaggle dataset - IPL Dataset
+
+Used Streamlit and Flask for GUI.
+TRAININGS & CERTIFICATIONS 
+
+Certificate Links **
+
+Programming With Python  - Internshala Trainings 
+
+
+Data Science Using Python  - EICT Academy IIT Roorkee 
+
+
+Data Structures and Algorithms - NPTEL
+
+
+Design Thinking And Lean Startup - Coursera
+
+
+Computational Thinking with Beginning C Programming  - Coursera

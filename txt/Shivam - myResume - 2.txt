@@ -1,0 +1,65 @@
+EDUCATIONAL HISTORY
+SHIVAM KUMAR
+P R O G R A M M E R  |  D A T A
+S C I E N C E  E N T H U S I A S T
+D Y Patil International University Bachelor of Technology, Computer Science Specialization Track - Data Science
+Gyan Asthali Senior Sr. School Intermediate in Science & Mathematics Passes 12th in 2018
+Gyan Asthali High School Intermediate in Science & Mathematics
+Passes 12th in 2016
+PERSONAL PROFILE I am a 3rd year CSE student, pursuing
+EMPLOYMENT HISTORY
+data science as my specialization track. Looking forward to gain knowledge and experience in the field of Data Science.
+App Development Internship
+CHARACTERISTICAL SKILLS
+Ananta Resource Management, Tenure - 450 hrs- Lead the team for Yatri Bhavan and Naukri Portal App Dev- Worked on Android Studio, Flutter and Power Apps
+- Given various learning presentations to other team members
+- Motivated, well-disciplined individual	- Continuously participated in weekly group discussion and
+- Works constructively with the team 	earned good credits 
+- Can lead team to achieve goals- Effective Motivator and Negotiator - Communicate Effectively 
+Search Engine Optimization Internship
+TECHNICAL SKILLS
+- Python & MySQL- Data Visualization using Power BI & Tableau- Data Analysis in MS Excel- Web Scrapping in Python- Web Development in HTML, CSS & PHP- Web Automation using selenium- AI and Machine Learning- Probability & Statistics
+Samagra Foundation, Tenure - 1 Month
+- Done On-Page SEO for 25 articles on www.shouts.site- Researched for various strategies to get the articles ranked
+Graphic Design & Research Internship
+Humans For Humaninty, Tenure - 1 Month
+- Designed posts for HFH's  different social media platform- Designed infographics for fund raising program- Researched and written report on Lijjat Papad & The Effect Of School Based Health Education Regarding Menstrual Hygiene 
+- Search Engine Optimization
+Social Media Marketing Internship
+CONTACT INFORMATION 	National Engineering Olympiad, Tenure - 1 Month 
+Mobile Number: +91 7061726881 Email: shivam799kumar@gmail.com
+- Promoted NEO's campaign in my campus- Promoted NEO on various social media platform- Participated in NEO Traffic Contest
+CURRENTLY LEARNING
+- Updating knowledge of AI & ML - Financial Market- Statistics for Data Science - Hadoop
+DATA ANNOTATION
+STRATA (NY), Tenure - 4 Months
+- Annotated various image data to supply to cv models- The annotation tasks included annotating and labeling traffic marking images for the infrastructure development project. 
+MY INSPIRATION
+INTERESTS AND HOBBIES
+My dream is to help orphan children throughout the world, providing them a good education, real-life experience and especially love and support that they
+I am interested in studying different languages. Currently, I am teaching myself how to read and write in Korean. I also enjoy reading books which expands my  knowledge. I love to watch kdrama, web-series and anime. 
+never received. And this dream of mine
+keeps me always motivated to work
+hard and give my best.
+PROJECTS COMPLETED 
+PUBLICATION
+Replicating state of brain during OBE- Research on measuring the brain activity and brain waves of a person while they are lucid dreaming as well as during Astral Projection.
+- Status: On-going, Read Here
+Exploratory Analysis of Geolocational Data
+- EDA done for the different cities of Maharashtra State- Thorough research has done by analyzing covid cases in different cities of Maharashtra- Analyzed the factors that may or may not affect the rise of covid cases based on location of a city- All the data used in the analysis has been collected manually from the internet
+MY GOALS
+Short-Term Goal
+- Get the title of data scientist after graduation- Become the best version of myself
+- Used Power BI for data visualization
+Home Automation Using Voice Assistant
+- Python is used throughout the project- ESP8266 is used for controlling light, fan, ac, etc- Provides home security and emergency system- Other basic features like texting on whatsapp, emailing, checking whether etc can be done just with a voice command
+- Support my family financially 
+Long-Term Goal- Help the orphan children - Get a good passive cashflow before I
+Covid19 Vaccination Management
+- This project is intended to be used as a tool to gather information about the patients who are vaccinated and those who are yet to get vaccine in an organization.
+turn forty 
+- Retire at the age of forty and devote my full time for helping orphan children 
+OTHER EXPERIENCES
+Life-Long Goal- Learning new things- Living with gratitude 
+Data Analytics- Price prediction using Boston dataset- Data preprocessing
+- Google ads analysis

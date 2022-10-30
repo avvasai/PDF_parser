@@ -1,0 +1,106 @@
+Gaurav Kumar Mishra 
+gauravmishra892001@gmail.com 
+
+Aspiring Data Scientist, Machine Learning and Software Developer,
+9955995957 
+
+Darbhanga, India 
+
+proficient in Data Science with a focus on Feature Engineering, Data
+pre-processing, Creating Sklearn's Custom Transformer, full-stack
+development, Web Scraping (Beautiful soup and selenium), and
+linkedin.com/in/gaurav-kumar-mishra-0a3787188 
+
+Python Programming and Java.
+github.com/gauravblog-art 
+
+EDUCATION 
+SKILLS 
+Bachelor of Technology - CSE 
+Python 
+JAVA 
+Django 
+Flask 
+Linux 
+DY Patil International University 
+Machine Learning 
+Deep learning 
+Data science 
+07/2019 - Present, 
+Pune, Maharashtra 7.7 CGPA 
+PERSONAL PROJECTS 
+Web Scraping 
+Operating System 
+DBMS 
+MySQL 
+HTML & CSS 
+Git & GitHub 
+Data Structure 
+Data structure and and algorithm 
+Cardiovascular Ailment Prediction (09/2021 - 11/2021)
+
+A project aiming to Predict Cardiovascular Ailment in a human body byconsidering medical data.
+Technologies Used - Python, Machine learning algorithm, Django.
+Movie_Recommendation_Sytstem (07/2021 - 08/2021)
+Movie Recommender system based on content-based and collaborative filtering recommender systems. 
+ACHIEVEMENTS 
+Google Kick Start 2021(Round E) (2021)
+
+30 Days of Google Cloud (08/2021 - 09/2021)
+
+get hands-on practice on Google Cloud - the tool that powers apps like Google Search, Gmail and YouTube. 
+Technologies Used- Python, Machine learning algorithm.
+
+Crime Reporting Management System (01/2021 - Present) 
+This project is to improve the crime reports and management system by using computer and android based system and making
+Google Cloud Security (05/2021)
+
+Hackombat 2.0 (09/2021)
+
+In this Hackombat 2.0 we got is 1253 rank. 
+the system more interactive and user-friendly. 
+Technologies Used - HTML & CSS, PHP, MySQL.
+
+LINKS 
+WORK EXPERIENCE 
+LeetCode-@12gaurav
+
+rawcult 
+GeeksForGeeks
+
+
+New Delhi 
+Hacker Rank-@gauravkumarmish4
+10/2021 - 02/2022, 
+Achievements/Tasks 
+Hands-on live project experience as a web developer in
+CERTIFICATES 
+Django with Python.
+
+Improving intrapreneurship skills. 
+Coordinating with the team and contributing to the growth of the organization.
+Data Analytics With Python (06/2021 - 07/2021)
+
+Microsoft AI Class Room Series Workshop
+ (02/2021 - 02/201)
+
+AWS Training (04/2021 - 04/2021)
+
+Stock Prediction Using Python D.Y Patil International University Akurdi Pune 
+Coursera Training Certificates (01/2020 - Present)
+
+06/2021 - 08/2021, 
+Pune, India 
+Achievements/Tasks 
+The aim is to predict the future value of the financial stocks
+INTERESTS 
+of a company with the use of Any Algorithm. 
+Data science 
+AI & ML 
+Problem solving 
+Learned, Researched on Varies machine learning algorithm.
+Acquired experience of coordinating and working in
+Software Development 
+web Development 
+teams. 
+Data Structure and Algorithm 

@@ -1,0 +1,29 @@
+ADARSH KUMAR
++91 9470878375 ⋄ Pune, Maharashtra, India adarshout@gmail.com ⋄ linkedin.com/in/linkedinURL ⋄ https://github.com/Adarshhere
+EDUCATION
+B.Tech in Computer Science Engineering, D.Y.Patil International University
+2019 - 2023
+Specialization in Data Science CGPA: 7.4
+SKILLS
+Languages Libraries Tools
+Soft Skills
+Python, HTML, MySQL Numpy , Pandas , Pyspark , Tensorflow , Matplotlib , Scikit-learn Git, Pycharm, Google colab, Atom
+Time Management, Teamwork, Problem Solving, Leadership, Accountability
+PROJECTS
+Perkinson’s Disease Detector
+• Created a model to predict if person is suffering from Perkinson’s disease.• Retrieved Perkinson dataset from UCI ML repository .
+• Implemented Support Vector Classifier on dataset.
+Credit Card Fraud Detection
+• Created a model to detect credit card fraud.
+• Retrieved Credit card fraud dataset from Kaggle.• Implemented PySpark library .
+• Utilized GBT Classifier for the prediction/detection.
+E-commerce Website
+• Created a database using MySQL.• Used phpMyAdmin for frontend.
+INTERNSHIP
+Stock Price Prediction Using ML Algorithms
+At D.Y.Patil International University May 2021 - July 2021
+• Compared different machine learning algorithms by predicting Stock prices.• Retrived Stock price data of certain companies from Kaggle .
+• Used LSTM , Random Forest , SVM and Prophet to predict future of stocks.
+INTERESTS AND HOBBIES
+Learning about new libraries and algorithms
+Watching Anime, Listening Music and Playing Video games.

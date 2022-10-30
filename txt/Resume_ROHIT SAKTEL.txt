@@ -1,0 +1,66 @@
+
+My Contact
+ROHIT SAKTEL CSE UNDERGRAD
+About Me I am a talented, ambitious, and hard-working CSE undergraduate
+with 3 years of coding experience in Python.
+With proven ability, I majored in computer science engineering and
+
+rohitsaktel1111@gmail.com
+specializing in data science and acquired an average grade point of 8.2, along with completing several courses and achieving skill badges from certified authorities, which provides me the opportunity to improve my skills and knowledge to grow along with the existing technology.
+Relevant Experience
+
++91 915-692-6074
+
+Pune, Maharashtra
+Hard Skill
+
+Python And Java Programming
+PYTHON DEVELOPER INTERN
+CODESPEEDY PVT TECH.LIM. | 2022
+My responsibilities includes writing and testing codes (minimum 3 packets of codes) and integrating applications with the company.
+PROJECT INTERSHIP INTERN
+UNSCHOOL | 2021
+My responsibility was to work on a project organized by UNSCHOOL after the completion of a course in Java and Python. The project, namely TRESURE HUNT GAME, was a 7-day internship program.
+Project Summary
+
+Probability, ANOVA, Regression
+
+Data Analytics 
+
+Deep Learning Fundamentals
+
+Big Query and EDA with Looker
+
+Statistics and visualization tools
+Soft Skill
+
+Observation
+
+Decision making
+
+Communication
+
+Multi-tasking
+Education Background
+CBSE, 10+2
+04/2018 - 04/2019
+PY WORLD
+A Graphic User Interface or GUI which helps in connects online python with student community to increase their coding skill for competitive programming .
+Paralysis Hive
+A Parkinson's prediction system helps out in knowing whether the person is affected or not to prevent cure.. 
+The system uses data science algorithms required for classification and clustering to predict output and medical diagnosis, such as Decision Tree and K-mean. 
+Position Of Responsibilty
+ALPHONSA SR. SEC. SCHOOL Percentage - 74
+
+CBSE, 10
+03/2016 - 04/2017
+ALPHONSA SR. SEC. SCHOOL CGPA - 9.0
+Languages
+
+English
+
+Hindi
+
+Member of GDSC Web Development core team.
+
+Marathi

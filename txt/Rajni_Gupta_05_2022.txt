@@ -1,0 +1,124 @@
+Rajni Gupta 
+A Programme Devotee and Full Stack Development enthusiast with keen interest in Machine Learning & Data Science. 
+
+rajni.gupta2901@gmail.com 
+
++91 8788145097 
+
+Pune 
+
+linkedin.com/in/~rajni 
+
+github.com/rajni0829 
+EDUCATION 
+SKILLS 
+Bachelor of Technology - CSE 
+Python 
+Django 
+MySQL 
+Machine Learning 
+D Y Patil International University 
+07/2019 - Present, 
+8.92 
+Deep Learning 
+ReactJS 
+Tensorflow 
+JavaScript 
+C++ 
+C 
+Neural Networks 
+WORK EXPERIENCE 
+Research Intern 
+Pune 
+PERSONAL PROJECTS 
+D Y Patil International University
+
+Object Detection (02/2022 - 02/2022)
+
+06/2021 - 07/2021, 
+Built a model that recognizes the objects from video /gif /pic using VGG16,
+Responsibilities/Tasks 
+OpenCV, Keras and Tensorflow.
+Detecting objects in Image using CNNTechniques(VGG16).
+Self-Driving Taxi (05/2021 - 06/2021)
+
+Performed Data Curation, Image pre-processing & FE. 
+Building AL(Gym) based self-driving taxi that can pick up passengers at one
+Obtained accuracy of 90.12% even for worst cases. 
+of a set of fixed locations, drop them off at another location, and get there
+in the quickest amount of time. 
+Machine Learning Intern 
+Pune 
+Cardiovascular-Ailment Pred. (10/2021 - 11/2021)
+
+D Y Patil International University
+
+Built a model based on Random Forest Algorithm that can predict whether
+06/2021 - Present, 
+there's a possibility of person getting a heart attack. 
+Chose best model by Comparing accuracy of multiple models.
+Responsibilities/Tasks 
+Understood about audio datasets , inferred information, pre-
+Codechef DYPIU Chapter (05/2021 - 06/2021)
+
+processed data and normalized it. 
+Built Django Based website using HTML, CSS, Javascript & Python which
+Learnt Voice characteristics, speech parameters, Vector
+takes take event's details conducted by codechef. 
+Quantization, DTW, and Visualization of Audio.
+Extracted audio features (MFCC, Zero Crossing, PCA,CF) by pre-
+CERTIFICATES 
+
+processing audio & trained it using Python Libs. 
+HR Intern 
+ML,Data Science,DL With Python (04/2020 - 05/2020)
+My Captain -The Climber
+
+Artificial Intelligence (04/2021 - 04/2021)
+
+02/2021 - 08/2021, 
+Bangalore 
+Data Science - Case Studies (11/2021 - 12/2021)
+
+Achievements/Tasks 
+Led team of 20 Interns every month to guide them in Business and
+Microsoft AI Classroom Series (02/2021 - 02/2021)
+
+Marketing Domain. 
+Drove my analytical and communicationskills, acquired experience of working under extreme conditions. 
+Data Science & ML Scholar Intern 
+ACHIEVEMENTS 
+Google Hash Code 2021 (02/2021 - 02/2021)
+
+Twowaits Techn.
+
+Secured 8855th rank globally in HashCode 2021 
+02/2022 - 02/2022, Achievements/Tasks 	Performed EDA on multiple Datasets. 
+Responsible to trained models using ML Algorithms. 
+Google Code Jam (03/2021 - 03/2021)
+
+Qualified for Code Jam Round 1 with 59 points in Qualification Round 
+Coding Ninjas (02/2021 - 02/2021)
+
+Secured 1301th rank globally in Code Kaze'21 
+VOLUNTEERING 
+Cloud & Data Science Workshop (09/2021 - 10/2021)
+
+30 Days of Google Cloud and Data Science Workshop by Google 
+Google Developer Student Club (12/2021 - Present) 
+CodeKaze by Coding Ninjas (03/2022 - 03/2022) 
+Web Development Lead 
+Secured Rank 1 in college and All India Rank 69 in Round 2 
+LASUX-V Club, DYPIU (08/2021 - Present) 
+Academic Scholarship-DYPIU (08/2020 - 05/2021) 
+Secured 2nd Position in the Academic year 2020-2021 
+Tech Team Associate 
+Codechef Chapter, DYPIU (11/2020 - 07/2021) 
+Tech Team Co-leader Journal Club, DYPIU (11/2020 - 07/2021) 
+INTERESTS 
+Admin Member 
+Artificial Intelligence 
+NLP 
+Data Analysis 
+Data Structures and Algorithms 
+Computer Vision 

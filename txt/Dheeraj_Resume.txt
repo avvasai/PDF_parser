@@ -1,0 +1,41 @@
+Dheeraj Parmar Business-Minded Data Scientist | Problem Solver | Innovator
+EXPERIENCE
+Research Intern, DYPIU June 2021 - August 2021
+Studied Various Machine Learning Algorithms.
+Flutter Development, Internship June 2021 - September 2021
+Worked as flutter developer at EduTekZila.
+Executive Member, Codechef DYPIU Chapter September 2020 - July 2021
+parmardheeraj6@gmail.com +91 - 9413802811 Sumerpur, Rajasthan, 306902 Linkedin : Click Here
+SKILLS
+Python | Algorithms Big Data | Hadoop Machine Learning | AI Data Mining | EDA Power BI | Data Visualization Deep Learning | NLP Statistics | Calculus My SQL | MongoDB (Basics)
+Flutter | Dart
+PROJECTS
+BI Dashboard— using Power BI An interactive visualization dashboard  for a large dataset.
+Loan Prediction — using ML with model comparisons Used Logistic Regression, Random Forest and Decision Tree and
+AWARDS/CERTIFICATIONS Microsoft AI Classroom Series
+Data Science for all, IIT Roorkee
+compared all on accuracy basis after K-Fold cross validation.  Python for Data Science, IBM
+Forecasting Stocks— Visualizing and Forecasting stocks
+Big Data 101, IBM
+A website that visualizes the forecasted stock using the required ticker.
+Machine Learning Badge,
+EDUCATION
+Degree
+Institution
+Score
+B.Tech CSE
+D.Y Patil International University
+8.5/10 CGPA [2019]
+Senior - Secondary (Pre-Engineering)
+RBSE (Rajasthan)
+80.51 % [2018]
+Secondary (High School)
+RBSE (Rajasthan)
+88.79 % [2016]
+Linkedin
+Python Badge, Linkedin
+Undergraduate & Masters Asia
+Virtual Experience Program,
+Microsoft
+LANGUAGES
+English, Hindi

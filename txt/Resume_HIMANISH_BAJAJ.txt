@@ -1,0 +1,28 @@
+
+HIMANISH BAJAJ
+Artificial Intelligence and Data scientist #Student
+himanishbajaj696@gmail.com linkedin.com/in/himanish-bajaj-bb42991a5 +91 9996585013
+Artificial Intelligence Engineer and Data Scientist , gained the one experience by initiating the Startup. Intermediate with writing the codes and complex neural networks. Have good hands on with handling middle weight data . Flexible to perform and learn . Use Logical approach to amend the statement into programs . Seeking for the core industry experience . 
+Confident programming language : Python Known Programming Language : C, C++, HTML, CSS
+Experience
+Artificial Intelligence Conceptualized :
+NLP (Sentiment analysis, multiple chat bots , tts / stt , OCR , Seq2Seq Model , etc) Computer Vision (Open cv, IBM Watson) ML Algorithms IBM Watson, GCP 
+Data Science Conceptualized : 	Understanding Exploratory Data Analysis 	Machine Learning 	Model selection and evaluation  Data Preprocessing  Data Mining  Data Visualization 	Business Intelligence 	Data Modelling
+Drone Development (2021): Working as a founder of DROP, developed the drone under INR 60k from scratch with the team, performing the major functions of night vision capturing, obstacle detection , air route mapping , Ware house management .
+Continuing to develop more tech with low budget.
+Mixed Reality (2021): Working as a founder of RADIUS , developing an VR Console application based on Mixed Reality (AR + VR) in the field of education, being the first ones developing the VR Filter that automatically adjusts the factors like brightness, hue , saturation etc , for better user experience using multiple AI techniques to come up with the parameters 
+Minor Projects : Face detection using IBM , GCP , Open CV Processed multiple Datasets Like: Cancer detection, Geo population , Probability outcome analysis , disease detection, IRIS, Crypto analysis etc.
+	OCR , Chatbots (scratch python, IBM Watson, GCP) 	Sentiment analysis (dataset + image synthesis) 	Density / population detection 	Web scaping cricbuzz.com 	Basic crypto mining (visuals) 	Power bi, Visualization algorithms, Excel , IBM Watson and many more 
+Soft Skills Communication skills Time management skills Analysis
+Creative Critical Thinking Decision Making 
+	Major 	Certifications 	AI with IBM Watson 	Machine Learning 	Data Visualization 	Web Scrapping 	Deep Learning 	Beginning C Programming 	Design Thinking and Global 	Startup 	Data Analysis Current Courses 	Big Data analysis 	Google Analytics 	Neural Networks 
+Education
+DY Patil International  2023
+University
+B.Tech In Computer Science  9.0 (Current)
+IIT/JEE Mains  2019
+94 percentile
+Vishwa Bharti Public Sccool  2019
+12 class / Senior Secondary
+Terii Public School  2017
+10 class / Matriculation
