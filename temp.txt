@@ -1,0 +1,96 @@
+
+Aakriti Singh Third Year Student 
+Aspiring Developer and problem solver with high technical and analytical skills with strong C++ and Python knowledge. 
+123aakritis@gmail.com 
+8080032277 
+linkedin.com/in/aakriti-singh-12m 
+github.com/aakritisingh12 
+EDUCATION 
+TECHNICAL SKILLS 
+Bachelor of Technology in Computer
+C++ 
+Python 
+MySQL 
+Django 
+Flutter 
+Science & Engineering 
+D Y Patil International University 
+HTML/CSS 
+Git & Github 
+Linux 
+Firebase 
+08/2019 - Present, 
+Pune, 8.5/10 CGPA 
+Dart 
+Bootstrap 
+ML Algorithms 
+Statistics 
+Courses 
+Data Structures 
+Design and Analysis
+Algorithms 
+Database Management
+Computer Networks 
+ACHIEVEMENTS 
+System 
+Systems Software 
+Data Science 
+Code Jam Qualification Round 2021 (03/2021 - Present) 
+Fundamentals of AI & ML 
+Deep Neural Networks 
+Qualified for Code Jam Round 1 with 41 points in Qualification Round 
+	Coding Ninjas Code Kaze'21 (02/2021 - Present) 	Secured 5185th rank globally PERSONAL PROJECTS 	Google Hash Code 2021 (02/2021 - Present) 	Secured 8859thrank globally 
+Grades Storage and Prediction system (02/2021 - 05/2021)
+Technologies used: Python, Django, MySQL, HTML/CSS, Scikit
+Google Kick Start 2021 (04/2021 - Present) Secured 11746th rank in Round A and 2558th rank in Round B globally 
+learn 
+Code Jam to I/O for Women 2021 (03/2021 - Present) 
+A grade storage system that will help students and recruiters keep a track of all the grades. 
+Secured 3008th rank globally 
+Resume Sorter (10/2020 - 12/202)
+Technologies used: Python, Flask, HTML/CSS
+2020 ICPC Regionalist (08/2021) Secured 610th rank in Amritapuri Regionals 
+A resume sorting software that would help the HR and recruiting
+team sort the resumes according to their requirements in a hassle
+CP PROFILES 
+free manner. 
+A Disease Prediction Model | (10/2021 - 12/2021)
+
+HackerRank - aakriti_singh312
+
+Technologies used: Python, Machine Learning, Streamlit
+Made a machine learning model that could predict the chances of a
+CodeChef - aakritisingh
+
+person suffering from a particular disease( 3 in our case) based on
+the symptoms. 
+Codeforces - aakritisingh
+
+LEADERSHIP/EXTRACURRICULAR 
+Leetcode - aakriti12
+
+President 
+CERTIFICATES 
+CodeChef DYPIU Chapter
+
+Microsoft AI Classroom Series (02/2021 - Present)
+
+09/2020 - 07/2021, 
+Achievements/Responsibilty/Tasks Managed executive board of 15 members and ran weekly meetings to oversee progress in essential parts ofthe
+Build a Face Recognition Application using Python (04/2021 - Present)
+chapter. 
+Led chapter of 80+ members to work towards goals that
+Object Oriented Data Structures in C++
+ (07/2020 - Present)
+
+improve and promote competitive programming, academics and, peer learning. 
+Conducted numerous inter-college coding events. 
+INTERESTS 
+Administration Lead Google Developer Student Club 
+10/2021 - Present, 
+Achievements/Tasks 
+Software Development 
+Machine Learning 
+Open Source 
+Competitive Programming 
+Managed all the official works and communication between the club and the university 
